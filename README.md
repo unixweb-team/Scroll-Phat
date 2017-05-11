@@ -4,11 +4,10 @@
 #Author: Callum Pritchard, Joachim Hummel
 #Project Name: Scroll-Phat
 #Project Description: Getting data from MQTT and displaying it on the scroll-phat
-#Version Number: 0.4
+#Version Number: 0.5
 #Date: 10/5/17
-#Release State: Alpha testing
-#Changes: Changed from infinite too to looping after displaying, it means it can't fully
-#               accept an input until it's displayed the last
+#Release State: Beta testing
+#Changes: Changed the replace to a range to output as to avoide replacing the letter B
 
 #needed commands
 #pip3 install paho-mqtt
